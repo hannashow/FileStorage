@@ -1,0 +1,15 @@
+{
+    "firstname":"Hanna",
+    "gender":true,
+    "height":157,
+    "email":"hannashow1218@gmail.com",
+    "city":{
+        "通訊地址":"台北",
+        "戶籍地址":"苗栗"
+    },
+    "phone":{
+        "市話":"03-6560213",
+        "行動電話":"0920881838"
+    },
+    "cars":["Tesla","Gogoro"]
+}
