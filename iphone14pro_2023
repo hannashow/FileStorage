@@ -32,4 +32,3 @@
     { "type": "iphone14promax", "screenSize":6.7, "color": "銀色", "price": 52400, "storage": "1TB", "picture": "silver.jfif" },
     { "type": "iphone14promax", "screenSize":6.7, "color": "太空黑色", "price": 52400, "storage": "1TB", "picture": "spaceblack.jfif" }
 ]
-]
